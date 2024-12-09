@@ -1,0 +1,7 @@
+# Example .nanorc configuration
+
+# Enable line numbers
+set linenumbers
+
+# Highlight syntax for various file types
+include "/usr/share/nano/*.nanorc"
